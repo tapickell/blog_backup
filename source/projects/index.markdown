@@ -8,12 +8,12 @@ footer: true
 ---
 
 ---
-##Giddy Goat Android App 
-In November of 2012 I was contracted again by The Giddy Goat Coffee House to create an Android application for use by thier clients. This app is available from the [Google Play Store](https://play.google.com/store/apps/details?id=me.toddpickell.giddygoat). It has a daily specials feature that can be updated with ease. It lists all of the coffee based drinks and gives the user a description about the drink selected. It can also bring up the stores location in the map app so the user can get directions to or bookmark the location.  
-
 
 ##Giddy Goat iPhone App  
 In March of 2012 I was contracted by The Giddy Goat Coffee House to create an iPhone application for use by thier clients. This app is available from the [App Store](http://appstore.com/giddygoat). It has a daily specials feature that can be updated with ease. It lists all of the coffee based drinks and gives the user a description about the drink selected. It can also bring up the stores location in the map app so the user can get directions to or bookmark the location. For iOS6 I utilized the new social integration features to allow users to tweet or post to facebook directly from the app.  
+
+##Giddy Goat Android App 
+In November of 2012 I was contracted again by The Giddy Goat Coffee House to create an Android application for use by thier clients. This app is available from the [Google Play Store](https://play.google.com/store/apps/details?id=me.toddpickell.giddygoat). It has a daily specials feature that can be updated with ease. It lists all of the coffee based drinks and gives the user a description about the drink selected. It can also bring up the stores location in the map app so the user can get directions to or bookmark the location.  
 
 
 ##Barista Log Android App
@@ -21,11 +21,15 @@ I am currently wokring on an Andorid app for Barista's and coffee enthusiasts. I
 
 
 ##Call Center Bot
-I am currently working on a Call Center Automation program that will help to automate redundant tasks in the workflow of a call center employee. This program will increase call center employee efficiency and consistancy. This project is utilizing JRuby, Java and the Swing framework to create a cross platform desktop application that will be able to work with remote desktop software, instant messenger programs and web browsers to automate as much of the daily workflow as possible.  
+I am currently working on a Call Center Automation program that will help to automate redundant tasks in the workflow of a call center employee. This program will increase call center employee efficiency and consistancy. This project is utilizing JRuby, Java and the Swing framework to create a cross platform desktop application that will be able to control  remote desktop software, instant messenger programs and web browsers to automate as much of the daily workflow as possible.  
 
 
 ##Tmux Battery Display
 I created a Ruby script that displays emoji in the tmux status line to represent a MacBook's current battery status. It has different icons for ac and battery power, also for fully charged, charging and discharging. I created this becuase I wanted an easy to see battery display for when I am working in Tmux and Vim. Clone it on [Github](https://github.com/myappleguy/tmux_battery_display) and try it out.
+
+
+##Tmux Pomodoro Timer
+I am creating an pomodoro timer app that displays the current time left for the pomodoro in the Tmux status bar. It uses emoji to display wether you are on an pom or a break. It uses terminal notifier to send a message to the notification center when the timer has finished. Still a [work](https://github.com/myappleguy/tmux_timer) in progress
 
 
 ##Java Asteroids Clone
