@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "new-page"
-date: 2013-07-15 23:42
+title: "projects"
+date: 2013-07-16 00:28
 comments: true
 sharing: true
 footer: true
 ---
+
+
